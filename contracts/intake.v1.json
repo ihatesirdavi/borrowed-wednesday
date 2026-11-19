@@ -1,7 +1,7 @@
 {
     "schema":  "codename-product-home-v1",
-    "codename":  "Starwoven Desk",
-    "repo":  "ihatesirdavi/starwoven-desk",
+    "codename":  "Borrowed Wednesday",
+    "repo":  "ihatesirdavi/borrowed-wednesday",
     "product_kind":  "animated-desktop-visual",
     "visibility":  "PUBLIC",
     "status":  "PUBLIC_STAGING_NO_IMPLEMENTATION",
