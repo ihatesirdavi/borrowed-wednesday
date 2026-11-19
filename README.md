@@ -1,4 +1,4 @@
-# Nebula Desk
+# Starwoven Desk
 
 **Public product codename** | animated-desktop-visual | **Staging, not released**
 
